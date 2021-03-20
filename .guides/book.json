@@ -1,0 +1,17 @@
+{
+ "name": "Django",
+ "children": [
+  {
+   "title": "Project Instructions Part 1",
+   "id": "a567a793-5273-de19-5b14-c9a54fd35f29",
+   "pageId": "a567a793-5273-de19-5b14-c9a54fd35f29",
+   "type": "page"
+  },
+  {
+   "title": "Project Instructions Part 2",
+   "id": "c00da937-a98a-30de-86a4-0a6d5165dc4c",
+   "pageId": "c00da937-a98a-30de-86a4-0a6d5165dc4c",
+   "type": "page"
+  }
+ ]
+}

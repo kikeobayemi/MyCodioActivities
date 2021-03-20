@@ -1,0 +1,14 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+        "Start mysite2 project": "django-admin startproject mysite2",
+        "RunServer": "python django02/mysite2/manage.py runserver 0.0.0.0:8000"
+  },
+
+// Preview button configuration
+  "preview": {
+         "Box URL Django Admin": "http://{{domain8000}}/admin"
+         }
+}
